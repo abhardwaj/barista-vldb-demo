@@ -12,7 +12,7 @@
 \usepackage{placeins}
 \usepackage{hyperref}
 \usepackage{cleveref}
-
+\usepackage{tabularx}
 
 \renewcommand*\ttdefault{cmvtt}
 %\renewcommand*\familydefault{\ttdefault} %% Only if the base font of the document is to be typewriter style
@@ -72,10 +72,31 @@
 \begin{document}
 \title{\hspace{-10pt} Colllaborative Data Analytics with DataHub}
 %\numberofauthors{14}
-\numberofauthors{1}
+\numberofauthors{9}
+
 \author{
-    Authors\titlenote{Note 1.}\\ Authors \\ Authors \\ Authors \\ More Authors\titlenote{Expanded affiliations: ...} \\ 
+\alignauthor
+\hspace{-45pt}Anant Bhardwaj\\
+       \affaddr{\hspace{-45pt}MIT}\\
+        \affaddr{\hspace{-45pt}\url{anantb@csail.mit.edu}}
+% 2nd. author
+\alignauthor
+\hspace{-95pt}Rebecca Taft\\
+       \affaddr{\hspace{-95pt}MIT}\\
+        \affaddr{\hspace{-95pt}\url{rytaft@mit.edu}}
+% 3rd. author
+\alignauthor
+\hspace{-120pt}Manasi Vartak\\
+       \affaddr{\hspace{-120pt}MIT}\\
+        \affaddr{\hspace{-120pt}\url{mvartak@mit.edu}}
+ % 4th. author
+\alignauthor
+\hspace{-145pt}David Goehring\\
+       \affaddr{\hspace{-145pt}MIT}\\
+        \affaddr{\hspace{-145pt}\url{dggoeh1@mit.edu}}
+% 5th. author
 }
+
 \maketitle
 \input{body.tex}
 \bibliographystyle{abbrv}

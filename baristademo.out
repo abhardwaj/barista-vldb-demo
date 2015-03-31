@@ -4,14 +4,12 @@
 \BOOKMARK [2][-]{subsection.2.2}{Enforcing the ordering on Postgres}{section.2}% 4
 \BOOKMARK [2][-]{subsection.2.3}{State Safety}{section.2}% 5
 \BOOKMARK [2][-]{subsection.2.4}{Log Purging/Garbage Collection: }{section.2}% 6
-\BOOKMARK [2][-]{subsection.2.5}{Multi-Paxos Implementation}{section.2}% 7
-\BOOKMARK [3][-]{subsubsection.2.5.1}{Normal Case Design \(Stable Leader\)}{subsection.2.5}% 8
-\BOOKMARK [3][-]{subsubsection.2.5.2}{Failover and Catch Up Protocol}{subsection.2.5}% 9
-\BOOKMARK [2][-]{subsection.2.6}{Recovery}{section.2}% 10
-\BOOKMARK [1][-]{section.3}{Client APIs}{}% 11
-\BOOKMARK [2][-]{subsection.3.1}{Barista Client APIs}{section.3}% 12
-\BOOKMARK [2][-]{subsection.3.2}{A Sample Python Client}{section.3}% 13
-\BOOKMARK [1][-]{section.4}{Evaluation}{}% 14
-\BOOKMARK [1][-]{section.5}{Related Work}{}% 15
-\BOOKMARK [1][-]{section.6}{Supplementary Materials}{}% 16
-\BOOKMARK [1][-]{section.7}{References}{}% 17
+\BOOKMARK [2][-]{subsection.2.5}{Recovery}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Client APIs}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Barista Client APIs}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{A Sample Python Client}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Evaluation}{}% 11
+\BOOKMARK [1][-]{section.5}{Related Work}{}% 12
+\BOOKMARK [1][-]{section.6}{Supplementary Materials}{}% 13
+\BOOKMARK [1][-]{section.7}{Additional Authors}{}% 14
+\BOOKMARK [1][-]{section.8}{References}{}% 15
